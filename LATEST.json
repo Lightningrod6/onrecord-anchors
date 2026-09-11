@@ -1,13 +1,18 @@
 {
  "onrecord_anchor": 1,
- "ts": 1789094144,
- "root": "0044ed19407b1784d10c0e0bd6be939a1954367b6cf6bb1c0464b4c9f4e2787f",
- "n_timelines": 2,
+ "ts": 1789103968,
+ "root": "b71172ab815010658b6b5ffa105454e780d27dcd1ca50998bce71729c2707e44",
+ "n_timelines": 3,
  "leaves": [
   {
    "slug": "acme-status",
    "head": "062d18403e56440095ce3b15c56cb9614967914fc61d755df7612cc8b945324f",
    "entries": 4
+  },
+  {
+   "slug": "lightning",
+   "head": "60d8e3ebf1c5a887d8d7623471df1353daab0bb343ad8cd98fbb3bd2a2c426f6",
+   "entries": 1
   },
   {
    "slug": "onrecord",
