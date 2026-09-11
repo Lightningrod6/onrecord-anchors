@@ -1,0 +1,34 @@
+{
+ "onrecord_anchor": 1,
+ "ts": 1789104183,
+ "root": "2cc64bed835f86fe76bb7c431fac86d46f7a3bea3e8c550e6650156d617050e7",
+ "n_timelines": 5,
+ "leaves": [
+  {
+   "slug": "acme-status",
+   "head": "062d18403e56440095ce3b15c56cb9614967914fc61d755df7612cc8b945324f",
+   "entries": 4
+  },
+  {
+   "slug": "conflicts-tracker",
+   "head": "0000000000000000000000000000000000000000000000000000000000000000",
+   "entries": 0
+  },
+  {
+   "slug": "liam",
+   "head": "81a44cfce8de4079f6d3d0275fc4b73c9ff97b25fade185f1caff7a4ff8efeb3",
+   "entries": 2
+  },
+  {
+   "slug": "lightning",
+   "head": "60d8e3ebf1c5a887d8d7623471df1353daab0bb343ad8cd98fbb3bd2a2c426f6",
+   "entries": 1
+  },
+  {
+   "slug": "onrecord",
+   "head": "a3d024cc813f74239d7ef95e397f97fa16cd0b7594af345081323ab94f2c4a1d",
+   "entries": 3
+  }
+ ],
+ "how_to_verify": "leaf = sha256('leaf\\0'+slug+'\\0'+head); node = sha256('node\\0'+left+'\\0'+right); odd levels duplicate last leaf."
+}
