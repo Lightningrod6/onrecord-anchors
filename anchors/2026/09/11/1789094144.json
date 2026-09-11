@@ -1,0 +1,19 @@
+{
+ "onrecord_anchor": 1,
+ "ts": 1789094144,
+ "root": "0044ed19407b1784d10c0e0bd6be939a1954367b6cf6bb1c0464b4c9f4e2787f",
+ "n_timelines": 2,
+ "leaves": [
+  {
+   "slug": "acme-status",
+   "head": "062d18403e56440095ce3b15c56cb9614967914fc61d755df7612cc8b945324f",
+   "entries": 4
+  },
+  {
+   "slug": "onrecord",
+   "head": "a3d024cc813f74239d7ef95e397f97fa16cd0b7594af345081323ab94f2c4a1d",
+   "entries": 3
+  }
+ ],
+ "how_to_verify": "leaf = sha256('leaf\\0'+slug+'\\0'+head); node = sha256('node\\0'+left+'\\0'+right); odd levels duplicate last leaf."
+}
