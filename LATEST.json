@@ -1,0 +1,14 @@
+{
+ "onrecord_anchor": 1,
+ "ts": 1789094130,
+ "root": "c6a0cc1c043a4ff6b24fb0c14fdeb0df76bbc35112f868db92b7d0e8c0c892e2",
+ "n_timelines": 1,
+ "leaves": [
+  {
+   "slug": "onrecord",
+   "head": "a3d024cc813f74239d7ef95e397f97fa16cd0b7594af345081323ab94f2c4a1d",
+   "entries": 3
+  }
+ ],
+ "how_to_verify": "leaf = sha256('leaf\\0'+slug+'\\0'+head); node = sha256('node\\0'+left+'\\0'+right); odd levels duplicate last leaf."
+}
